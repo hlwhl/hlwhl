@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on several flutter dekstop projects.
+<!-- - 🔭 I’m currently working on several flutter dekstop projects. -->
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=hlwhl&bg_color=00,6495ed,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
